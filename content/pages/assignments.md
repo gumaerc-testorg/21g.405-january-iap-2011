@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b054ae99-426b-5446-a9c5-e144d5365196
 ---
@@ -89,7 +92,7 @@ Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit02))
 
 Nachrichten: lesen, hören, anschauen, Schwerpunkte notieren.
 
-Vokabelarbeit: Einen Vokabelsatz für jedes der neuen Vokabelwörter schreiben - am Tag 3 abgeben. <format.pdf>
+Vokabelarbeit: Einen Vokabelsatz für jedes der neuen Vokabelwörter schreiben - am Tag 3 abgeben. \<format.pdf>
 
 Zum Thema: Ausländer in Deutschland:  
 Video: "100 Deutsche Jahre: Abgrenzungen" + Text dazu lesen: "Abgrenzungen - Ausländer in Deutschland" und dazu Arbeitsblatt schreiben.
