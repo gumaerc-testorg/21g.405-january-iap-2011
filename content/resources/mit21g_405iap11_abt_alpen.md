@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b054ae99-426b-5446-a9c5-e144d5365196
 resourcetype: Document
 title: Arbeitsblatt Die Alpenschule
 uid: c920de42-c9d9-b47d-3586-9838712089f8

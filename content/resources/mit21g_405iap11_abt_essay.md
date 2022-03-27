@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b054ae99-426b-5446-a9c5-e144d5365196
 resourcetype: Document
 title: Arbeitsblatt Essay
 uid: 487661e6-4875-2afb-9b8d-823ed6c91f06

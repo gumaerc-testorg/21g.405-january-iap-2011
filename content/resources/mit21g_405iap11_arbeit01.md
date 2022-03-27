@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b054ae99-426b-5446-a9c5-e144d5365196
 resourcetype: Document
 title: Arbeitsblatt 1
 uid: a30e3c9a-3e73-5430-ba8e-8d2c246c3de3

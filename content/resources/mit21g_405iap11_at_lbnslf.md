@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b054ae99-426b-5446-a9c5-e144d5365196
 resourcetype: Document
 title: Arbeitsblatt Lebenslauf
 uid: 9a84ee86-f09e-d00f-c161-731a6340e421
