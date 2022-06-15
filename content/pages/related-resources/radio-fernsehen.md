@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains links to various radio resources.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources

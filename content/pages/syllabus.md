@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, readings,
+  homework, attendance, grading, and a statement on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 5 sessions / week, 3 hours / session
 Texte
 -----
 
-The readings for this course can be found on the [Related Resources]({{< baseurl >}}/pages/related-resources) page.
+The readings for this course can be found on the {{% resource_link 395761a8-abc4-3fe1-3e6f-805b64857810 "Related Resources" %}} page.
 
 Kaufen Sie sich bitte einen Ordner, in dem Sie alle Kopien und andere Texte einheften können. Bringen Sie den Ordner jeden Tag zur Stunde mit.
 
