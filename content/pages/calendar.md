@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of themes, skills, grammar,
+  and language work for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 56e8822e-e921-7eab-a81f-2c5b50054295
 ---

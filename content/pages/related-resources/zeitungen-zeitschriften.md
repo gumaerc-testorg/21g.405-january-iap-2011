@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This page contains links to resources for newspapers and current events.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 395761a8-abc4-3fe1-3e6f-805b64857810
 title: Zeitungen / Zeitschriften
 uid: 4befb844-dc16-7949-5d06-4f6d2f65b629

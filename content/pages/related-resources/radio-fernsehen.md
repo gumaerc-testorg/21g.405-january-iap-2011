@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This page contains links to various radio resources.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 395761a8-abc4-3fe1-3e6f-805b64857810
 title: Radio / Fernsehen
 uid: 8d75392b-7425-a350-9451-3a4d21557201

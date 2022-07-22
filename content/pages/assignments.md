@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the assignments for the course along with sources,
+  texts, and other related materials.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b054ae99-426b-5446-a9c5-e144d5365196
 ---
@@ -42,7 +47,7 @@ Video: "Ihr Deutschen - Blicke von außen auf die deutsche Geschichte." (German 
 
 Neujahr, Gaby. "[Die Deutschen: bewundert und verachtet](http://www.focus.de/politik/ausland/europa-die-deutschen-und150-bewundert-und-verachtet_aid_162480.html)." _FOCUS_, July 22, 1996.
 
-Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit01))
+Arbeitsblatt ({{% resource_link a30e3c9a-3e73-5430-ba8e-8d2c246c3de3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -59,7 +64,7 @@ Text: FOCUS "Umfrage" lesen und bereiten.
 
 Arbeitsblatt dazu schreiben.
 
-[iPod mit ausgewählte Podcasts aufladen]({{< baseurl >}}/pages/related-resources/podcasts).
+{{% resource_link f297b3bc-d4fb-481a-af02-3be83299ab14 "iPod mit ausgewählte Podcasts aufladen" %}}.
 
 "Tagesschau" anschauen: Schwerpunkte notieren (aufschreiben).
 
@@ -80,7 +85,7 @@ Muster - Lebenslauf (Please see note in TAG #15)
 
 Video und text: "Abgrenzungen - Ausländer in Deutschland." _100 Deutsche Jahre_. Thomas Fischer. SWR, 1998.
 
-Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit02))
+Arbeitsblatt ({{% resource_link a1889f7d-ad79-a3f6-7825-8484821804da "PDF" %}})
 
 
 {{< tdclose >}}
@@ -89,7 +94,7 @@ Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit02))
 
 Nachrichten: lesen, hören, anschauen, Schwerpunkte notieren.
 
-Vokabelarbeit: Einen Vokabelsatz für jedes der neuen Vokabelwörter schreiben - am Tag 3 abgeben. <format.pdf>
+Vokabelarbeit: Einen Vokabelsatz für jedes der neuen Vokabelwörter schreiben - am Tag 3 abgeben. \<format.pdf>
 
 Zum Thema: Ausländer in Deutschland:  
 Video: "100 Deutsche Jahre: Abgrenzungen" + Text dazu lesen: "Abgrenzungen - Ausländer in Deutschland" und dazu Arbeitsblatt schreiben.
@@ -109,7 +114,7 @@ Ihren Lebenslauf schreiben und am Tag 5 abgeben (tabellarisch).
 
 Video: "Deutsche Sprache, schwere Sprache." Vortrag von Prof. Weinrich.
 
-Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit03))
+Arbeitsblatt ({{% resource_link 66e807d2-ef96-86ab-f0e0-83655c6faa38 "PDF" %}})
 
 Zu Deutsche Sprache: [Fakten](http://de.wikipedia.org/wiki/Deutsche_Sprache) + Mundarten
 
@@ -118,9 +123,9 @@ Zu Deutsche Sprache: [Fakten](http://de.wikipedia.org/wiki/Deutsche_Sprache) + M
 \- [Berliner Dialekt](http://de.wikipedia.org/wiki/Berlinisch)  
 \- Stahl, Marvin C. "[Berliner Dialekt: Kleines Lexikon der Berliner Mundart/des Berlinerisch](https://web.archive.org/web/20121105013335/http://www.ta7.de/txt/berlin/berl0015.htm)." July 21, 2009.
 
-(Kurspaket-Fertigekeiten) Redemittel zum Vortrag ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_redemittel))
+(Kurspaket-Fertigekeiten) Redemittel zum Vortrag ({{% resource_link 78839b40-b3f8-1fb7-1389-1d812b718b81 "PDF" %}})
 
-[Podcasts, im Netz: Nachrichten]({{< baseurl >}}/pages/related-resources/podcasts)
+{{% resource_link f297b3bc-d4fb-481a-af02-3be83299ab14 "Podcasts, im Netz: Nachrichten" %}}
 
 
 {{< tdclose >}}
@@ -187,7 +192,7 @@ Massenmedien und öffentliche Meinung - "Kultur & Medien." _Tatsachen über Deut
 \- "Internet und Soziale Medien – ein neuer Kosmos."  
 \- "Die Rundfunklandschaft – ein duales System."
 
-[Zeitungen und Zeitschriften aus Deutschland und der Schweiz]({{< baseurl >}}/pages/related-resources/zeitungen-zeitschriften)
+{{% resource_link 4befb844-dc16-7949-5d06-4f6d2f65b629 "Zeitungen und Zeitschriften aus Deutschland und der Schweiz" %}}
 
 
 {{< tdclose >}}
@@ -205,7 +210,7 @@ Müller von Blumencron, Mathias. "[Hier wird die Zukunft erfunden](http://www.sp
 
 "MIT." _Wo die besten gewinnen sollen_. Michael Zehetmair, Volker Wild, Björn-Christoph Bugl. BR-Alpha, November 19, 1999.
 
-Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit05)) - schreiben Sie eine Seite Kommentar.
+Arbeitsblatt ({{% resource_link 499eb7ac-0bd1-3cd5-3050-6e645ff7fd19 "PDF" %}}) - schreiben Sie eine Seite Kommentar.
 
 Vorbereiten: Ihr Referat - Thema ausarbeiten, Struktur aufstellen und aufschreiben (bis Montag).
 
@@ -222,7 +227,7 @@ Vorbereiten: Ihr Referat - Thema ausarbeiten, Struktur aufstellen und aufschreib
 
 Texte zu Zuwanderung: "[Keine Lust auf Deutschland](http://www.dradio.de/dlf/sendungen/pisaplus/868610/)." _PISAPlus_, November 1, 2008.
 
-Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit06))
+Arbeitsblatt ({{% resource_link 3bde5d53-ad16-5642-fbc1-51e40325cbbd "PDF" %}})
 
 
 {{< tdclose >}}
@@ -235,7 +240,7 @@ Mithören: Audio (zu einem Teil) + Text und Arbeitsblatt dazu.
 
 Schreiben: Gruppenporträt zu den interviewten Personen.
 
-Nachrichten: ein Nachrichtenblock in mindestens einem deutschen und einem anderen deutschsprachigen Quelle anschauen: Unterschiede im Stil und Focus notieren. ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_abt_ztgen))
+Nachrichten: ein Nachrichtenblock in mindestens einem deutschen und einem anderen deutschsprachigen Quelle anschauen: Unterschiede im Stil und Focus notieren. ({{% resource_link 74cd4c24-1747-14a9-4731-da47dc14354e "PDF" %}})
 
 Gastvortrag: 2 Fragen für unsere drei Gäste am Dienstag. Alle haben als MIT Studenten in Deutschland gearbeitet.
 
@@ -256,7 +261,7 @@ Schreiben: zweite Fassung vom Lebenslauf und suchen Sie eine interessante Stelle
 
 Texte zu Zuwanderung: "[Keine Lust auf Deutschland](http://www.dradio.de/dlf/sendungen/pisaplus/868610/)." _PISAPlus_, November 1, 2008.
 
-Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit06))
+Arbeitsblatt ({{% resource_link 3bde5d53-ad16-5642-fbc1-51e40325cbbd "PDF" %}})
 
 
 {{< tdclose >}}
@@ -265,7 +270,7 @@ Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit06))
 
 [_Denk ich an Deutschland - Wir haben vergessen zurückzukehren_](http://www.imdb.com/title/tt0302041/). Fatih Akin. WDR, 2001.
 
-Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit07))
+Arbeitsblatt ({{% resource_link b84866ae-6660-6526-c808-a671c3a5cd06 "PDF" %}})
 
 Nachrichten: lesen, hören, anschauen, notieren (verschiedene Medien).
 
@@ -363,9 +368,9 @@ Im Vergleich dazu 2 Texte:
 {{< tdopen >}}
 
 
-Interviews planen und durchführen: Arbeiten Sie mit Ihrem Partner zusammen: Interviewpartner kontaktieren und Interview vorbereiten - Fragen aufschreiben. Arbeitsblatt: Interviews mit Deutschsprachigen. ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_interviews))
+Interviews planen und durchführen: Arbeiten Sie mit Ihrem Partner zusammen: Interviewpartner kontaktieren und Interview vorbereiten - Fragen aufschreiben. Arbeitsblatt: Interviews mit Deutschsprachigen. ({{% resource_link 2e47bddc-26c7-2037-7ee7-30a798cf5047 "PDF" %}})
 
-Zum Thema: Zuwanderung: Informationen zu Einwanderung sammeln (auch von Tag 9). ESSAY zur Initiative: Jahr der Integration. Argumentieren Sie auf Grund von mindestens 3 Beispielen: Berichte, Dokumentarmaterial, Kunstwerken. ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_abt_essay))
+Zum Thema: Zuwanderung: Informationen zu Einwanderung sammeln (auch von Tag 9). ESSAY zur Initiative: Jahr der Integration. Argumentieren Sie auf Grund von mindestens 3 Beispielen: Berichte, Dokumentarmaterial, Kunstwerken. ({{% resource_link 487661e6-4875-2afb-9b8d-823ed6c91f06 "PDF" %}})
 
 Vorbereitung auf den Gastvortrag am Tag 11: "Der Mordanschlag von Arizona" - hören Sie sich die Diskussion an. Zu den einzelnen Beiträgen wichtigste Stichpunkte aufschreiben. Fragen für Herr Jürgen Schönstein, Journalist über die deutsche Presse für Dienstag notieren.
 
@@ -404,7 +409,7 @@ Zwei Artikel lesen und sich überlegen, welche Fragen können, müssen in Zusamm
 
 Schweizer Fakten (8 Infoblätter) - lesen und lernen Sie das Material auf Blatt 1+2 plus noch ein Ihnen zugeteiltes Blatt.
 
-[Nachricht hören, sehen]({{< baseurl >}}/pages/related-resources/radio-fernsehen)
+{{% resource_link 8d75392b-7425-a350-9451-3a4d21557201 "Nachricht hören, sehen" %}}
 
 
 {{< tdclose >}}
@@ -433,7 +438,7 @@ Zum Thema: Deutsche in der Schweiz
 
 Video: "Die Deutschen kommen" (Dokumentarfilm vom Schweizer Fernsehen 2007) - schauen Sie sich den Dokumentarfilm an \[52Min\].
 
-Arbeitsblatt ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_arbeit12))
+Arbeitsblatt ({{% resource_link eb9de60f-c7ac-7484-9e76-18cea206ee0e "PDF" %}})
 
 Nachrichten: [Tagesschau](http://www.tagesschau.sf.tv/) (Schweizer Fernsehen), [Tages Anzeiger](http://www.tagesanzeiger.ch/), [Neue Züricher Zeitung](http://www.nzz.ch/) (2 Schweizer Zeitungen) - vergleichen die Inhalte und den Stil.
 
@@ -483,7 +488,7 @@ Interviews vorbereiten und durchführen; Bericht über beide Interviews schreibe
 
 Zum Thema: Die Schweiz von außen
 
-Text: "Die Alpenschule" - Artikel lesen und Aufgabe 1 auf dem Arbeitsblatt schreiben ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_abt_alpen)).
+Text: "Die Alpenschule" - Artikel lesen und Aufgabe 1 auf dem Arbeitsblatt schreiben ({{% resource_link c920de42-c9d9-b47d-3586-9838712089f8 "PDF" %}}).
 
 Wiederholen Sie für die 2. Klausur am Tag 14:
 
@@ -543,7 +548,7 @@ Bewerbungsbrief - siehe Modelle im Kurspaket:
 
 Please see also the following related documents (links unavailable): Checkliste Qualifikationen, Bewerbung – Musterbrief, and Muster – Lebenslauf.
 
-Arbeit Lebenslauf ([PDF]({{< baseurl >}}/resources/mit21g_405iap11_at_lbnslf))
+Arbeit Lebenslauf ({{% resource_link 9a84ee86-f09e-d00f-c161-731a6340e421 "PDF" %}})
 
 
 {{< tdclose >}}

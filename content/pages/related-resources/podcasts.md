@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This page contains links to podcasts useful to the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 395761a8-abc4-3fe1-3e6f-805b64857810
 title: Podcasts
 uid: f297b3bc-d4fb-481a-af02-3be83299ab14
@@ -53,7 +57,7 @@ Heute
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 [Deutsche Welle](http://www.dw-world.de/dw/0,,9541,00.html)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -101,7 +105,7 @@ Arts.21
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Deutschlandfunk/Deutschland Radio Kultur](http://www.dradio.de/podcast/)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -140,7 +144,7 @@ Abendschau
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Westdeutscher Rundfunk ([WDR](http://www.wdr.de/mediathek/html/regional/index.xml)) ([Audio](http://www.wdr.de/radio/home/podcasts/podcast_uebersicht_neu.phtml)) ([Video](http://www.wdr.de/tv/home/videopodcast/vodcast.jsp))
 {{< tdclose >}}
 {{< tdopen >}}
@@ -161,7 +165,7 @@ WDR5 Echo des Tages
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Schweizer Radio DRS](http://www.drs.ch/www/de/drs/podcasts.html)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -191,7 +195,7 @@ Tagesgespräch
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 [Schweizer Fernsehen](http://www.podcast.sf.tv/)
 {{< tdclose >}}
 {{< tdopen >}}
