@@ -6,6 +6,7 @@ file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-cult
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Arbeitsblatt Essay
 uid: 487661e6-4875-2afb-9b8d-823ed6c91f06
 ---
 This is a resource file that contains information regarding arbeisblatt essay.
-

@@ -5,6 +5,7 @@ file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-cult
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Interviews mit Deutschsprachigen
 uid: 2e47bddc-26c7-2037-7ee7-30a798cf5047
 ---
 This is a resource file that contains information regarding interviews.
-

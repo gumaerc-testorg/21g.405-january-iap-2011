@@ -6,6 +6,7 @@ file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-cult
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Arbeitsblatt Die Alpenschule
 uid: c920de42-c9d9-b47d-3586-9838712089f8
 ---
 This is a resource file that contains information regarding arbeitsblatt die alpenschule.
-

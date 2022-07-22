@@ -5,6 +5,7 @@ file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-cult
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Arbeitsblatt Deutschsprachige Zeitungen
 uid: 74cd4c24-1747-14a9-4731-da47dc14354e
 ---
 This is a resource file that contains information regarding arbeit.
-

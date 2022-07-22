@@ -6,6 +6,7 @@ file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-cult
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Arbeitsblatt 3
 uid: 66e807d2-ef96-86ab-f0e0-83655c6faa38
 ---
 This is a resource file that contains information regarding arbeitsblatt 3.
-
