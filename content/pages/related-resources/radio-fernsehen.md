@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This page contains links to various radio resources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -9,9 +10,7 @@ parent_uid: 395761a8-abc4-3fe1-3e6f-805b64857810
 title: Radio / Fernsehen
 uid: 8d75392b-7425-a350-9451-3a4d21557201
 ---
-
-Radio (Hörfunk)
----------------
+## Radio (Hörfunk)
 
 [Deutschlandradio](http://www.dradio.de/)
 
@@ -23,12 +22,11 @@ Radio (Hörfunk)
 
 [B5 aktuell (BR)](http://www.br.de/radio/b5-aktuell/index.html)
 
-[Schweizer Radio DRS](http://www.drs.ch/www/de/drs/nachrichten.html)
+Schweizer Radio DRS
 
 [Österreichischer Rundfunk](http://radio.orf.at/)
 
-Fernsehen
----------
+## Fernsehen
 
 ### Deutschland
 
@@ -82,8 +80,7 @@ Fernsehen
 
 [Schweizer Fernsehen (SF 1 & 2)](http://www.sf.tv/) – Tagesschau
 
-Agenturen
----------
+## Agenturen
 
 [Agence France-Presse](http://www.afp.com/afpcom/de/)
 
