@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding arbeitsblatt
   5.
 file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/499eb7ac0bd13cd530506e645ff7fd19_MIT21G_405IAP11_arbeit05.pdf
+file_size: 176921
 file_type: application/pdf
 learning_resource_types:
 - Assignments
