@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This page contains links to resources for newspapers and current events.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -9,11 +10,9 @@ parent_uid: 395761a8-abc4-3fe1-3e6f-805b64857810
 title: Zeitungen / Zeitschriften
 uid: 4befb844-dc16-7949-5d06-4f6d2f65b629
 ---
-
 MIT's German Language News and Newspapers
 
-Überregionale Tageszeitungen
-----------------------------
+## Überregionale Tageszeitungen
 
 ### Deutschland
 
@@ -45,8 +44,7 @@ MIT's German Language News and Newspapers
 
 [Tagesanzeiger](http://www.tages-anzeiger.ch/)
 
-Regionale Zeitungen
--------------------
+## Regionale Zeitungen
 
 ### Deutschland
 
@@ -106,8 +104,7 @@ Nordwest Presse
 
 [Zürichsee Zeitung](http://www.zsz.ch/)
 
-Wochenzeitungen / Zeitschriften
--------------------------------
+## Wochenzeitungen / Zeitschriften
 
 ### Deutschland
 
@@ -117,7 +114,7 @@ Wochenzeitungen / Zeitschriften
 
 [Die Zeit](http://www.zeit.de/index)
 
-[Bild der Wissenschaft](http://www.wissenschaft.de/wissenschaft/home.html)
+Bild der Wissenschaft
 
 [TIP - Berlin](http://www.tip-berlin.de/)
 
