@@ -16,7 +16,7 @@ uid: 8d75392b-7425-a350-9451-3a4d21557201
 
 [Deutsche Welle Radio](http://www.dw-world.de/)
 
-[Radio Bremen (Plattdeutsch)](http://www.radiobremen.de/bremeneins/serien/plattdeutsche_nachrichten/startseite102.html)
+Radio Bremen (Plattdeutsch)
 
 [Radio Berlin-Brandenburg](http://www.rbb-online.de/radio/index.html)
 
@@ -32,7 +32,7 @@ Schweizer Radio DRS
 
 [Das Erste](http://www.daserste.de/)
 
-[Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands (ARD)](http://www.ard.de/) – [Tagesschau](http://www.tagesschau.de/), [Sportschau](http://www.sportschau.de/sp/)
+[Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands (ARD)](http://www.ard.de/) – [Tagesschau](http://www.tagesschau.de/), Sportschau
 
 [ARD Digital](http://www.ard-digital.de/)
 
@@ -52,7 +52,7 @@ Schweizer Radio DRS
 
 [Westdeutscher Rundfunk (WDR)](http://www.wdr.de/themen/homepages/homepage.jhtml)
 
-[Hessischer Rundfunk (HR)](http://www.ard.de/home/intern/fakten/abc-der-ard/Saarlaendischer_Rundfunk__SR_/537542/index.html)
+Hessischer Rundfunk (HR)
 
 [Saarländischer Rundfunk (SR)](http://www.sr-online.de/home/1655/)
 
