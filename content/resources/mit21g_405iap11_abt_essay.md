@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding arbeisblatt
   essay.
-file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/487661e648752afb9b8d823ed6c91f06_MIT21G_405IAP11_abt_essay.pdf
+file: /ol-ocw-studio-app/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/487661e648752afb9b8d823ed6c91f06_MIT21G_405IAP11_abt_essay.pdf
 file_size: 113386
 file_type: application/pdf
 learning_resource_types:
