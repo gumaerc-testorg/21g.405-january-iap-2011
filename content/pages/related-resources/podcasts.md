@@ -59,7 +59,7 @@ HeuteMorgen
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Tagesgespräch
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="4" >}}
-[Schweizer Fernsehen](http://www.podcast.sf.tv/)
+[Schweizer Fernsehen](https://www.srf.ch/audio?q=&date=all&page=0)
 {{< tdclose >}}{{< tdopen >}}
 SF Tagesschau
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

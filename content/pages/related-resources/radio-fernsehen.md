@@ -84,4 +84,4 @@ Hessischer Rundfunk (HR)
 
 [Agence France-Presse](http://www.afp.com/afpcom/de/)
 
-[Austria Presse Agentur (APA)](http://www.apa.co.at/)
+[Austria Presse Agentur (APA)](https://apa.at/)
