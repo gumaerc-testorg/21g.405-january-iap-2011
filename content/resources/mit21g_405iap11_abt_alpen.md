@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding arbeitsblatt
   die alpenschule.
-file: /ol-ocw-studio-app/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/c920de42c9d9b47d35869838712089f8_MIT21G_405IAP11_abt_alpen.pdf
+file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/c920de42c9d9b47d35869838712089f8_MIT21G_405IAP11_abt_alpen.pdf
 file_size: 582252
 file_type: application/pdf
 learning_resource_types:

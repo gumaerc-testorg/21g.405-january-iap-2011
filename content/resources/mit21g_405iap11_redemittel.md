@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding redemittel.
-file: /ol-ocw-studio-app/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/78839b40b3f81fb713891d812b718b81_MIT21G_405IAP11_redemittel.pdf
+file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/78839b40b3f81fb713891d812b718b81_MIT21G_405IAP11_redemittel.pdf
 file_size: 69247
 file_type: application/pdf
 learning_resource_types:
