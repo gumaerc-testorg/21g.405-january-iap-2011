@@ -64,7 +64,7 @@ Berliner Abendblatt
 
 [Main Post](http://www.mainpost.de/)
 
-[Neue Westfälische Zeitung](http://www.wnonline.de/)
+[Neue Westfälische Zeitung](https://www.nw.de/)
 
 Nordwest Presse
 
@@ -72,7 +72,7 @@ Nordwest Presse
 
 [Rheinische Post](http://www.rp-online.de/)
 
-[Saarbrücker Zeitung](http://www.sz-sb.de/)
+[Saarbrücker Zeitung](https://www.saarbruecker-zeitung.de/)
 
 [Sächsische Zeitung](http://www.sz-online.de/)
 

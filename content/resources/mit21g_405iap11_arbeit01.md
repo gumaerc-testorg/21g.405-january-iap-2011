@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding arbeitsblatt1.
-file: /ol-ocw-studio-app/courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/a30e3c9a3e735430ba8e8d2c246c3de3_MIT21G_405IAP11_arbeit01.pdf
+file: /courses/21g-405-germany-today-intensive-study-of-german-language-and-culture-january-iap-2011/a30e3c9a3e735430ba8e8d2c246c3de3_MIT21G_405IAP11_arbeit01.pdf
 file_size: 182136
 file_type: application/pdf
 learning_resource_types:
