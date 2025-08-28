@@ -96,7 +96,7 @@ Nordwest Presse
 
 [Freiburger Nachrichten](http://www.freiburger-nachrichten.ch/)
 
-[Liechtensteiner Volksblatt](http://www.volksblatt.li/)
+Liechtensteiner Volksblatt
 
 [Schaffhauser Nachrichten](http://www.shn.ch/)
 
