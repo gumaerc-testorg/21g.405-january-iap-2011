@@ -32,7 +32,7 @@ Texte zum Thema "Heimat.".
 
 Video: "Ihr Deutschen - Blicke von außen auf die deutsche Geschichte." (German television, off-air recording from the early 90s.)
 
-Neujahr, Gaby. "[Die Deutschen: bewundert und verachtet](https://web.archive.org/web/20170519181021/http://www.focus.de/politik/ausland/europa-die-deutschen-und150-bewundert-und-verachtet_aid_162480.html)." *FOCUS*, July 22, 1996.
+Neujahr, Gaby. "{{% resource_link "ce0e901c-c68c-4bc3-9024-6dae6111f2cf" "Die Deutschen: bewundert und verachtet" %}}." *FOCUS*, July 22, 1996.
 
 Arbeitsblatt ({{% resource_link "a30e3c9a-3e73-5430-ba8e-8d2c246c3de3" "PDF" %}})
 
@@ -56,7 +56,7 @@ Arbeitsblatt dazu schreiben.
 2
 {{< tdclose >}}{{< tdopen >}}
 
-Zeittafel: [Gino Carmine Chiellino](https://web.archive.org/web/20160623164756/http://www.chiellino.eu/it/vita.html), Schriftsteller
+Zeittafel: {{% resource_link "a2b4f80c-38ea-4063-aa92-2887d44392c0" "Gino Carmine Chiellino" %}}, Schriftsteller
 
 Muster - Lebenslauf (Please see note in TAG #15)
 
@@ -83,12 +83,12 @@ Video: "Deutsche Sprache, schwere Sprache." Vortrag von Prof. Weinrich.
 
 Arbeitsblatt ({{% resource_link "66e807d2-ef96-86ab-f0e0-83655c6faa38" "PDF" %}})
 
-Zu Deutsche Sprache: [Fakten](http://de.wikipedia.org/wiki/Deutsche_Sprache) + Mundarten
+Zu Deutsche Sprache: {{% resource_link "79349f0e-646e-4c7a-8f91-4bb3e4215bd9" "Fakten" %}} + Mundarten
 
-\- [Deutsche Mundarten der Gegenwart](https://grosstuchen.de/Mundarten.html)        
-\- "[Lauschangriff auf deutsche Dialekte](http://www.dw-world.de/dw/0,,8150,00.html)." *Deutsche Welle*, 2011.        
-\- [Berliner Dialekt](http://de.wikipedia.org/wiki/Berlinisch)        
-\- Stahl, Marvin C. "[Berliner Dialekt: Kleines Lexikon der Berliner Mundart/des Berlinerisch](https://web.archive.org/web/20121105013335/http://www.ta7.de/txt/berlin/berl0015.htm)." July 21, 2009.
+\- {{% resource_link "529f48c3-b66a-46b6-b0b1-b14c4595d60c" "Deutsche Mundarten der Gegenwart" %}}        
+\- "{{% resource_link "7cb39cc0-f8b7-40c8-9dfd-f84ab14f7959" "Lauschangriff auf deutsche Dialekte" %}}." *Deutsche Welle*, 2011.        
+\- {{% resource_link "67d75f56-548f-440b-a979-a90567cc6137" "Berliner Dialekt" %}}        
+\- Stahl, Marvin C. "{{% resource_link "de3a7550-3018-4d76-aade-b9a1e8e38080" "Berliner Dialekt: Kleines Lexikon der Berliner Mundart/des Berlinerisch" %}}." July 21, 2009.
 
 (Kurspaket-Fertigekeiten) Redemittel zum Vortrag ({{% resource_link "78839b40-b3f8-1fb7-1389-1d812b718b81" "PDF" %}})
 
@@ -134,7 +134,7 @@ Lebenslauf schreiben (tabellarisches Format) - für Tag 5.
 
 Massenmedien und öffentliche Meinung - "Kultur & Medien." *Tatsachen über Deutschland*.
 
-\- "[Medien – ein facettenreiches System](http://www.tatsachen-ueber-deutschland.de/de/kultur-medien/main-content-09/medien.html)."        
+\- "{{% resource_link "c9785437-5423-4871-9d55-2cc47cb4894b" "Medien – ein facettenreiches System" %}}."        
 \- "Die Presselandschaft – vielstimmige Zeitungswelt."        
 \- "Internet und Soziale Medien – ein neuer Kosmos."        
 \- "Die Rundfunklandschaft – ein duales System."
@@ -150,7 +150,7 @@ Lernen Sie für die Klausur am Montag (Tag 6):
 \- Spracharbeit: Passiv
 
 Zum Thema: MIT von außen:        
-Müller von Blumencron, Mathias. "[Hier wird die Zukunft erfunden](http://www.spiegel.de/spiegel/print/d-8649648.html)." *Der Spiegel*, January 6, 1997.
+Müller von Blumencron, Mathias. "{{% resource_link "a6b05e37-4e37-4675-90a8-cd725047a9bf" "Hier wird die Zukunft erfunden" %}}." *Der Spiegel*, January 6, 1997.
 
 "MIT." *Wo die besten gewinnen sollen*. Michael Zehetmair, Volker Wild, Björn-Christoph Bugl. BR-Alpha, November 19, 1999.
 
@@ -162,7 +162,7 @@ Vorbereiten: Ihr Referat - Thema ausarbeiten, Struktur aufstellen und aufschreib
 6
 {{< tdclose >}}{{< tdopen >}}
 
-Texte zu Zuwanderung: "[Keine Lust auf Deutschland](http://www.dradio.de/dlf/sendungen/pisaplus/868610/)." *PISAPlus*, November 1, 2008.
+Texte zu Zuwanderung: "{{% resource_link "42a1272d-c8f4-445d-b81f-990fe2a4fb4a" "Keine Lust auf Deutschland" %}}." *PISAPlus*, November 1, 2008.
 
 Arbeitsblatt ({{% resource_link "3bde5d53-ad16-5642-fbc1-51e40325cbbd" "PDF" %}})
 
@@ -186,13 +186,13 @@ Schreiben: zweite Fassung vom Lebenslauf und suchen Sie eine interessante Stelle
 7
 {{< tdclose >}}{{< tdopen >}}
 
-Texte zu Zuwanderung: "[Keine Lust auf Deutschland](http://www.dradio.de/dlf/sendungen/pisaplus/868610/)." *PISAPlus*, November 1, 2008.
+Texte zu Zuwanderung: "{{% resource_link "42a1272d-c8f4-445d-b81f-990fe2a4fb4a" "Keine Lust auf Deutschland" %}}." *PISAPlus*, November 1, 2008.
 
 Arbeitsblatt ({{% resource_link "3bde5d53-ad16-5642-fbc1-51e40325cbbd" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
-[*Denk ich an Deutschland - Wir haben vergessen zurückzukehren*](http://www.imdb.com/title/tt0302041/). Fatih Akin. WDR, 2001.
+{{% resource_link "5fbf62f0-1536-48c1-8254-552d9f85047d" "*Denk ich an Deutschland - Wir haben vergessen zurückzukehren*" %}}. Fatih Akin. WDR, 2001.
 
 Arbeitsblatt ({{% resource_link "b84866ae-6660-6526-c808-a671c3a5cd06" "PDF" %}})
 
@@ -214,7 +214,7 @@ Wortschatz: Sätze zu neuen Vokabeln schreiben.
 
 Zum Thema: Zuwanderung: Informationen zu Einwanderung sammeln (Was sind die wesentlichsten Anhaltspunkte?) Artikel lesen:
 
-\- Loick, Antonia. "[Deutschland: 'Zuwanderung gestalten, Integration fördern' – das Zuwanderungsgesetz](http://www.de-cn.net/dis/zgh/pol/de2744039.htm)." Goethe-Institut, Online-Redaktion, October 2005.        
+\- Loick, Antonia. "{{% resource_link "db9af119-7ce0-440b-ab75-69f739053506" "Deutschland: 'Zuwanderung gestalten, Integration fördern' – das Zuwanderungsgesetz" %}}." Goethe-Institut, Online-Redaktion, October 2005.        
 \- Online Einbürgerungstest - Test nehmen!        
 \- Staatsangehörigkeitsgesetz
 
@@ -223,14 +223,14 @@ Zum Thema: Zuwanderung: Informationen zu Einwanderung sammeln (Was sind die wese
 {{< tdclose >}}{{< tdopen >}}
 
 Zum Thema: Zuwanderung:        
-[*Raus mit der Sprache - Rein ins Leben*](http://vimeo.com/15831868). Chris Caliman. 2010.
+{{% resource_link "ea99442e-a983-42c9-bfcc-729f9f05fb5f" "*Raus mit der Sprache - Rein ins Leben*" %}}. Chris Caliman. 2010.
 
 "Raus mit der Sprache. Rein ins Leben." Bundesregiergung, October 20, 2010.
 
 TaitEitaTV. "Harris - Nur ein Augenblick." October 2, 2010. YouTube. Accessed December 6, 2011.        
-[http://www.youtube.com/watch?v=5t71H4FE0eM](http://www.youtube.com/watch?v=5t71H4FE0eM)
+{{% resource_link "40002234-67f0-492e-85ed-2cd335d65c30" "http://www.youtube.com/watch?v=5t71H4FE0eM" %}}
 
-[*zwischen welten*](https://web.archive.org/web/20120323134133/http://www.zeit.de/video/2010-11/681384994001). Dorothea Carl. 2009.
+{{% resource_link "8b90f166-011a-47bb-becb-b3c6658cb960" "*zwischen welten*" %}}. Dorothea Carl. 2009.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -238,9 +238,9 @@ Nachrichten (für Tag 10): mindestens 1 Sendung (TV oder Rundfunk) + 1 Zeitung e
 
 Zum Thema: Zuwanderung: Informationen zu Einwanderung sammeln und stichwortartig notieren: Was sind die wesentlichsten Anhaltspunkte? Argumente? Wie geht der Staat das Problem an? Was sind die unterschiedlichen Probleme der ausländischen Stimmen?
 
-Video: [*zwischen welten*](https://web.archive.org/web/20120323134133/http://www.zeit.de/video/2010-11/681384994001). Dorothea Carl. 2009.
+Video: {{% resource_link "8b90f166-011a-47bb-becb-b3c6658cb960" "*zwischen welten*" %}}. Dorothea Carl. 2009.
 
-Musikvideo: [*Raus mit der Sprache - Rein ins Leben*](http://vimeo.com/15831868). Chris Caliman. 2010.
+Musikvideo: {{% resource_link "ea99442e-a983-42c9-bfcc-729f9f05fb5f" "*Raus mit der Sprache - Rein ins Leben*" %}}. Chris Caliman. 2010.
 
 Lesen Sie dazu den Bericht vom Presse und Infoamt der BR zur Integrationsinitiative.
 
@@ -251,13 +251,13 @@ Lesen Sie dazu den Bericht vom Presse und Infoamt der BR zur Integrationsinitiat
 Zum Thema: Zuwanderung
 
 \- "Böhmer ruft 2011 als 'Jahr der Integration' aus." *DerWesten*, January 13, 2011.        
-\- "[Böhmer ruft 'Jahr der Integration' aus](http://www.rp-online.de/politik/deutschland/boehmer-ruft-jahr-der-integration-aus-1.2126996)." *RP Online*, January 13, 2011.        
-\- Wowereit, Klaus. "[Jedes Jahr muss ein Jahr der Integration warden, Frau Böhmer!](https://web.archive.org/web/20110115195041/http://www.spd.de/aktuelles/Pressemitteilungen/8150/20110113_wowereit_zu_boehmer_integration.html)" January 13, 2011.        
-\- "[Was man zur Zuwanderung wissen muss](http://www.rp-online.de/politik/deutschland/was-man-zur-zuwanderung-wissen-muss-1.2080916)." *RP Online*, 2011.
+\- "{{% resource_link "81bc60d0-c06b-430c-be9f-1dad7e3e5c57" "Böhmer ruft 'Jahr der Integration' aus" %}}." *RP Online*, January 13, 2011.        
+\- Wowereit, Klaus. "{{% resource_link "ec2b7ffd-8e7b-47b8-aaa7-df990a569aca" "Jedes Jahr muss ein Jahr der Integration warden, Frau Böhmer!" %}}" January 13, 2011.        
+\- "{{% resource_link "a633df80-3a37-4541-bc19-5031b39ff6c2" "Was man zur Zuwanderung wissen muss" %}}." *RP Online*, 2011.
 
 Im Vergleich dazu 2 Texte:
 
-\- Reimann, Anna. "[Man wollte die Elite der Welt, 319 sind gekommen](http://www.spiegel.de/politik/deutschland/0,1518,454762,00.html)." *Der Spiegel*, December 15, 2006.        
+\- Reimann, Anna. "{{% resource_link "7daa171a-61a1-42d9-92d3-3e718295ef36" "Man wollte die Elite der Welt, 319 sind gekommen" %}}." *Der Spiegel*, December 15, 2006.        
 \- Klamm, Andreas. "2008 - Das Jahr der Integration: Gedanken zur Umsetzung einer türkisch-deutschen Integration." February 19, 2008.
 
 "Der Mordanschlag von Arizona." *Zur Diskussion*, January 12, 2011.
@@ -278,11 +278,11 @@ Bereiten Sie Ihr Referat für die kommende Woche vor.
 
 Zum Thema: Die Schweiz - Einwanderungsland?
 
-Baldauf-Hornig, Cristiana. "[Vorsicht vor Fränkli und Grüezi](http://www.sueddeutsche.de/politik/deutsche-in-der-schweiz-vorsicht-vor-fraenkli-und-grueezi-1.79758)." *Süddeutsche*, February 14, 2010.
+Baldauf-Hornig, Cristiana. "{{% resource_link "1cdc1da4-1d99-4e11-8f2d-0dcb717dacd3" "Vorsicht vor Fränkli und Grüezi" %}}." *Süddeutsche*, February 14, 2010.
 
-Pöhner, Ralph. "[Kontrolle ist gut, Vertrauen besser](http://www.zeit.de/2008/50/DOS-Schweiz-Bankgeheimnis)." *Die Zeit*, December 10, 2008.
+Pöhner, Ralph. "{{% resource_link "a400b07c-20f7-4a2a-a7ec-9553b6ea3d7d" "Kontrolle ist gut, Vertrauen besser" %}}." *Die Zeit*, December 10, 2008.
 
-[Schweizer Fakten](http://www.swissworld.org/fileadmin/user_upload/docs/factsheets_edition_2005_german.pdf) (8 Infoblätter)
+{{% resource_link "81e9a37b-de26-47ae-91c6-66114b2b1a3d" "Schweizer Fakten" %}} (8 Infoblätter)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -290,8 +290,8 @@ Zum Thema: Die Schweiz - Einwanderungsland?
 
 Zwei Artikel lesen und sich überlegen, welche Fragen können, müssen in Zusammenhang mit beiden Texten gestellt warden:
 
-\- Baldauf-Hornig, Cristiana. "[Vorsicht vor Fränkli und Grüezi](http://www.sueddeutsche.de/politik/deutsche-in-der-schweiz-vorsicht-vor-fraenkli-und-grueezi-1.79758)." *Süddeutsche*, February 14, 2010.        
-\- Pöhner, Ralph. "[Kontrolle ist gut, Vertrauen besser](http://www.zeit.de/2008/50/DOS-Schweiz-Bankgeheimnis)." *Die Zeit*, December 10, 2008.
+\- Baldauf-Hornig, Cristiana. "{{% resource_link "1cdc1da4-1d99-4e11-8f2d-0dcb717dacd3" "Vorsicht vor Fränkli und Grüezi" %}}." *Süddeutsche*, February 14, 2010.        
+\- Pöhner, Ralph. "{{% resource_link "a400b07c-20f7-4a2a-a7ec-9553b6ea3d7d" "Kontrolle ist gut, Vertrauen besser" %}}." *Die Zeit*, December 10, 2008.
 
 Schweizer Fakten (8 Infoblätter) - lesen und lernen Sie das Material auf Blatt 1+2 plus noch ein Ihnen zugeteiltes Blatt.
 
@@ -304,7 +304,7 @@ Schweizer Fakten (8 Infoblätter) - lesen und lernen Sie das Material auf Blatt 
 Zum Thema: Die Schweiz - Einwanderungsland?
 
 SchweizerFernsehen. "DOK - Die Deutschen kommen (Untertitelte Version)." November 30, 2007. YouTube. Accessed December 6, 2011.        
-[http://www.youtube.com/watch?v=ii2n0EUfu6E](http://www.youtube.com/watch?v=ii2n0EUfu6E)
+{{% resource_link "4f971242-6f85-46c9-8638-c54e0de66de1" "http://www.youtube.com/watch?v=ii2n0EUfu6E" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -316,7 +316,7 @@ Video: "Die Deutschen kommen" (Dokumentarfilm vom Schweizer Fernsehen 2007) - sc
 
 Arbeitsblatt ({{% resource_link "eb9de60f-c7ac-7484-9e76-18cea206ee0e" "PDF" %}})
 
-Nachrichten: [Tagesschau](https://www.srf.ch/play/tv/sendung/tagesschau?id=ff969c14-c5a7-44ab-ab72-14d4c9e427a9) (Schweizer Fernsehen), [Tages Anzeiger](http://www.tagesanzeiger.ch/), [Neue Züricher Zeitung](http://www.nzz.ch/) (2 Schweizer Zeitungen) - vergleichen die Inhalte und den Stil.
+Nachrichten: {{% resource_link "e40c084e-ddb1-48f4-9e3a-4013723808af" "Tagesschau" %}} (Schweizer Fernsehen), {{% resource_link "e7662697-292e-4440-b159-34739602b4e9" "Tages Anzeiger" %}}, {{% resource_link "2d681d66-11a6-4144-b3fd-d01e7976589f" "Neue Züricher Zeitung" %}} (2 Schweizer Zeitungen) - vergleichen die Inhalte und den Stil.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -324,27 +324,27 @@ Nachrichten: [Tagesschau](https://www.srf.ch/play/tv/sendung/tagesschau?id=ff969
 
 Zum Thema: Die Schweiz von außen
 
-Teuwsen, Peer, and Urs Willman. "[Die Alpenschule](http://www.zeit.de/2008/50/DOS-Schweiz-Essay)." *Die Zeit*, December 4, 2008.
+Teuwsen, Peer, and Urs Willman. "{{% resource_link "3a97fe64-6085-4975-8fa1-4c82566dbe0c" "Die Alpenschule" %}}." *Die Zeit*, December 4, 2008.
 
 Weitere Materialien zur Schweiz
 
-\- Walther, Rudolf. "[Typisch!](http://www.zeit.de/2009/52/CH-Rudolf-Walther)" *Die Zeit*, December 17, 2009.        
-\- Keiser, Andreas. "[Deutsche in der Schweiz: Mehr toleriert als geschätzt](http://www.swissinfo.ch/ger/Specials/Deutsche_in_der_Schweiz/Hintergrund/Deutsche_in_der_Schweiz:_Mehr_toleriert_als_geschaetzt.html?cid=156318)." *Swissinfo*, March 27, 2008.        
-\- "[Die Schweizer Gesprächskultur ist anders](http://www.swissinfo.ch/eng)." *Swissinfo*, February 27, 2008.        
-\- Marusczyk, Ivo. "[Warum ich gehe](http://www.zeit.de/2009/21/CH-Marusczyk)." *Die Zeit*, May 29, 2009.        
-\- Schobloch, Karen. "[Das ist jetzt meine Schweiz](http://www.zeit.de/2009/52/CH-Zweittext-Karen-Schobloch)." *Die Zeit*, December 17, 2009.        
-\- Ochsenbein, Gaby. "[Schweizer Konsens und deutsche Streitkultur](http://www.swissinfo.ch/ger/Home/Archiv/Schweizer_Konsens_und_deutsche_Streitkultur.html?cid=156526)." *Swissinfo*, April 16, 2008.        
-\- Ochsenbein, Gaby. "[Von Beruf Deutscher](http://www.swissinfo.ch/ger/Specials/Deutsche_in_der_Schweiz/Portaets_und_Reportagen/Von_Beruf_Deutscher.html?cid=157056)." *Swissinfo*, February 29, 2006.        
-\- "[Die Deutschen kommen!](http://www.spiegel.de/unispiegel/jobundberuf/0,1518,392159,00.html)" *UniSPIEGEL*, December 29, 2005.        
-\- [Schweiz: Entdecke das Plus](http://www.switzerland.com/de.cfm/home) / [Swissmade](http://www.swissmade.com/)        
-\- Swissinfo / "Die omnipräsenten Typen." [Swissworld](http://www.swissworld.org/de/), 2011.        
+\- Walther, Rudolf. "{{% resource_link "9ea81295-75cb-4509-8464-5e250fffa233" "Typisch!" %}}" *Die Zeit*, December 17, 2009.        
+\- Keiser, Andreas. "{{% resource_link "9ecacf94-2177-44d8-97ff-08a0a4ea6ba0" "Deutsche in der Schweiz: Mehr toleriert als geschätzt" %}}." *Swissinfo*, March 27, 2008.        
+\- "{{% resource_link "385a8ed4-40e4-4038-8613-74cc16647342" "Die Schweizer Gesprächskultur ist anders" %}}." *Swissinfo*, February 27, 2008.        
+\- Marusczyk, Ivo. "{{% resource_link "9f884673-33b3-4e45-a9c2-7b772603e093" "Warum ich gehe" %}}." *Die Zeit*, May 29, 2009.        
+\- Schobloch, Karen. "{{% resource_link "211a4ce2-2019-449a-93da-7a4b92f5b1b1" "Das ist jetzt meine Schweiz" %}}." *Die Zeit*, December 17, 2009.        
+\- Ochsenbein, Gaby. "{{% resource_link "4c34f430-f7ca-4ced-8d28-77ae8fc2944e" "Schweizer Konsens und deutsche Streitkultur" %}}." *Swissinfo*, April 16, 2008.        
+\- Ochsenbein, Gaby. "{{% resource_link "4bd9ea89-3d22-4a49-a40d-ff0f92a943cb" "Von Beruf Deutscher" %}}." *Swissinfo*, February 29, 2006.        
+\- "{{% resource_link "26924f5e-8245-4a5e-bd7d-3e6db638d8cd" "Die Deutschen kommen!" %}}" *UniSPIEGEL*, December 29, 2005.        
+\- {{% resource_link "26138b11-ebae-40e5-92e4-f044b10c0b34" "Schweiz: Entdecke das Plus" %}} / {{% resource_link "8bdcbdb3-abd3-4759-8183-3020f5064987" "Swissmade" %}}        
+\- Swissinfo / "Die omnipräsenten Typen." {{% resource_link "f3ba6925-68d0-49a9-8e34-3b93d55ff1c6" "Swissworld" %}}, 2011.        
 \- "Vom Staatenbund zum Bundesstaat." Swissworld, 2011.        
 \- Das politische System der Schweiz / Der Schweizer Staat        
 \- Die Bundesbehorden der Schweizerischen Eidgenossenschaft        
 \- Statistiken von A bis Z        
-\- [Kanton (Schweiz)](http://de.wikipedia.org/wiki/Kanton_%28Schweiz%29)        
-\- [Karte – Schweiz verwaltungsgliederung](http://de.wikipedia.org/wiki/Datei:KARTE_schweiz_verwaltungsgliederung.png)        
-\- [GeoPuzzles - Schweiz](http://www.pizzacatering.ch/Schweiz/Kantone.html) / Schweizer Stichworte
+\- {{% resource_link "0a2ca11f-1b01-4723-bfb1-8eb9a34392ea" "Kanton (Schweiz)" %}}        
+\- {{% resource_link "e41bbe45-a0ab-4709-98b8-eb85969015a4" "Karte – Schweiz verwaltungsgliederung" %}}        
+\- {{% resource_link "7c1a97f8-cbd2-47fe-8f56-6721293791bb" "GeoPuzzles - Schweiz" %}} / Schweizer Stichworte
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -371,7 +371,7 @@ Vorstellungsgespräch (Arbeitsblatt)
 
 Zum Thema: Die Schweiz von außen
 
-Teuwsen, Peer, and Urs Willman. "[Die Alpenschule](http://www.zeit.de/2008/50/DOS-Schweiz-Essay)." *Die Zeit*, December 4, 2008.
+Teuwsen, Peer, and Urs Willman. "{{% resource_link "3a97fe64-6085-4975-8fa1-4c82566dbe0c" "Die Alpenschule" %}}." *Die Zeit*, December 4, 2008.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -393,7 +393,7 @@ Interviews: Bericht über das Interview schreiben (2 Seiten, benotete Aufgabe, D
 
 Bewerbungsbrief - siehe Modelle im Kurspaket:
 
-\- [Das Bewerbungs - ABC](http://web.archive.org/web/19980207025941/http://www.dv-job.de/dv-rat1.html)
+\- {{% resource_link "50321d70-22ba-47bb-8b27-ec6255b0fc31" "Das Bewerbungs - ABC" %}}
 
 Please see also the following related documents (links unavailable): Checkliste Qualifikationen, Bewerbung – Musterbrief, and Muster – Lebenslauf.
 
