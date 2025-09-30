@@ -19,11 +19,11 @@ Tagesschau
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Zweites Deutsches Fernsehen (ZDF)](http://www.zdf.de/ZDFmediathek/hauptnavigation/startseite/#/hauptnavigation/startseite)
+{{% resource_link "cd229e7f-24cb-413e-bfe2-8467143f0db8" "Zweites Deutsches Fernsehen (ZDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 Heute
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="5" >}}
-[Deutsche Welle](http://www.dw-world.de/dw/0,,9541,00.html)
+{{% resource_link "5ed7a3b4-adcb-4a41-abc5-2a53c39de059" "Deutsche Welle" %}}
 {{< tdclose >}}{{< tdopen >}}
 Made In Germany
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -35,17 +35,17 @@ Alltagsdeutsch
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Arts.21
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
-[Deutschlandfunk/Deutschland Radio Kultur](http://www.dradio.de/podcast/)
+{{% resource_link "81358465-db48-4263-8e68-f828f7f7e451" "Deutschlandfunk/Deutschland Radio Kultur" %}}
 {{< tdclose >}}{{< tdopen >}}
 Nachrichten
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Informationen am Morgen
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[BR-Online](http://www.br-online.de/podcast/)
+{{% resource_link "36ce11be-9711-4ba7-86d7-a766b55cc41b" "BR-Online" %}}
 {{< tdclose >}}{{< tdopen >}}
 Abendschau
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
-Westdeutscher Rundfunk ([WDR](http://www.wdr.de/mediathek/html/regional/index.xml)) ([Audio](http://www.wdr.de/radio/home/podcasts/podcast_uebersicht_neu.phtml)) ([Video](http://www.wdr.de/tv/home/videopodcast/vodcast.jsp))
+Westdeutscher Rundfunk ({{% resource_link "4a653d4f-e25a-40f3-9f4b-f85447ab11d2" "WDR" %}}) ({{% resource_link "f430a836-a1e7-4aa5-b75c-6b5441587536" "Audio" %}}) ({{% resource_link "12f8e2cf-e7c1-4aca-b62e-ae276bf7db27" "Video" %}})
 {{< tdclose >}}{{< tdopen >}}
 WDR2 Kompakt
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -59,7 +59,7 @@ HeuteMorgen
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Tagesgespräch
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="4" >}}
-[Schweizer Fernsehen](https://www.srf.ch/audio?q=&date=all&page=0)
+{{% resource_link "3520c800-31ae-42d1-bff9-2cee422dff41" "Schweizer Fernsehen" %}}
 {{< tdclose >}}{{< tdopen >}}
 SF Tagesschau
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
