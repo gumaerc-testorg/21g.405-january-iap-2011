@@ -11,40 +11,40 @@ uid: 395761a8-abc4-3fe1-3e6f-805b64857810
 Veranstaltungen
 ---------------
 
-[Goethe-Institut Boston](http://goethe.de/ins/us/bos/deindex.htm)
+{{% resource_link "ff1cba70-3742-4c71-8656-a5caf99cbeca" "Goethe-Institut Boston" %}}
 
-[Coolidge Corner Theatre](http://www.coolidge.org/)
+{{% resource_link "a8d31b25-a0d7-4ada-bc53-0b6ce4e48a6a" "Coolidge Corner Theatre" %}}
 
-[Harvard Film Archive](https://harvardfilmarchive.org/)
+{{% resource_link "2e22fcde-f8b6-459e-9283-90cbc91fe345" "Harvard Film Archive" %}}
 
-[Busch-Reisinger Museum, Harvard University](http://www.harvardartmuseums.org/search-results?q=Busch-Reisinger+Museum%2C+Harvard+University)
+{{% resource_link "cdec5375-8677-4e60-9545-7294c521f449" "Busch-Reisinger Museum, Harvard University" %}}
 
-[Swissnex – Boston Consulate of Switzerland](http://www.swissnexboston.org/)
+{{% resource_link "d4b0c084-4d7f-4df8-ae12-d7273a6f8de6" "Swissnex – Boston Consulate of Switzerland" %}}
 
-[SwissBäkers](http://www.swissbakers.com/)
+{{% resource_link "dd8bb7b6-caeb-4bbd-8b96-3efb8c071e10" "SwissBäkers" %}}
 
-[_Deutsche Welle_ KalenderBlatt](http://kalenderblatt.de/)
+{{% resource_link "943cfc0d-e92d-4faa-aa58-f28991d6c48c" "_Deutsche Welle_ KalenderBlatt" %}}
 
-"['Zwischen den Jahren' – woher kommt das?](http://www.welt.de/wissenschaft/article2946910/Zwischen-den-Jahren-woher-kommt-das.html)" _Die Welt_, December 29, 2008.
+"{{% resource_link "f990ce56-fb8f-4cff-a08f-bd2d55fa4f1a" "'Zwischen den Jahren' – woher kommt das?" %}}" _Die Welt_, December 29, 2008.
 
-[Forschung für unsere Gesundheit (Wissenschaftsjahr 2011)](http://www.forschung-fuer-unsere-gesundheit.de/)
+{{% resource_link "bfd6b2b3-ff9a-47ca-904d-f8f150172f5d" "Forschung für unsere Gesundheit (Wissenschaftsjahr 2011)" %}}
 
 Dialog Wissenschaft – Gesellschaft (2001-2011)
 
 Web-Resourcen
 -------------
 
-[DL Recorder](http://projects.oscelot.org/gf/project/dlrecorder/)
+{{% resource_link "5979dd4f-45a4-4499-9dde-858b1dcf7a30" "DL Recorder" %}}
 
-[Das Digitale Wörterbuch der deutschen Sprache des 20. Jahrhunderts (DWDS)](http://www.dwds.de/)
+{{% resource_link "d028909a-499d-4b87-9c73-57185442a9f0" "Das Digitale Wörterbuch der deutschen Sprache des 20. Jahrhunderts (DWDS)" %}}
 
 jokerooDOTcom. "Massachusettch? Massasusettschs? Massachusetts? Sagen Sie doch einfach Karlsruhe." October 13, 2009. YouTube. Accessed December 13, 2011.  
-[http://www.youtube.com/watch?v=jcQFfKzYIPE](http://www.youtube.com/watch?v=jcQFfKzYIPE)
+{{% resource_link "fe1d2bc3-abbf-4df2-bff7-7680800635b0" "http://www.youtube.com/watch?v=jcQFfKzYIPE" %}}
 
 Nachschlagewerke
 ----------------
 
-Wahrig, Hans-Peter. _Deutsches Wörterbuch_. Bertelsmann Lexikon Institut, 1999. ISBN: 9783577104463. \[Preview with [Google Books](http://books.google.co.in/books?id=PvsRAAAAIAAJ&printsec=frontcover&dq=Deutsches+Woerterbuch&hl=en&sa=X&ei=L1bwTtaXEI7prQfZwfTwDw&redir_esc=y#v=onepage&q=Deutsches%20Woerterbuch&f=false)\]
+Wahrig, Hans-Peter. _Deutsches Wörterbuch_. Bertelsmann Lexikon Institut, 1999. ISBN: 9783577104463. \[Preview with {{% resource_link "91d28002-a377-4e82-b5e4-a63325696e1a" "Google Books" %}}\]
 
 Vetter, Gregor. _PONS: Großwörterbuch_. Klett, 2008. ISBN: 9783125171930.
 

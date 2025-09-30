@@ -12,76 +12,76 @@ uid: 8d75392b-7425-a350-9451-3a4d21557201
 ---
 ## Radio (Hörfunk)
 
-[Deutschlandradio](http://www.dradio.de/)
+{{% resource_link "f872c762-8a3f-400a-b74a-e96d8185dc64" "Deutschlandradio" %}}
 
-[Deutsche Welle Radio](http://www.dw-world.de/)
+{{% resource_link "fdd23303-77a8-4e0f-ae0b-59be2acaae58" "Deutsche Welle Radio" %}}
 
 Radio Bremen (Plattdeutsch)
 
-[Radio Berlin-Brandenburg](http://www.rbb-online.de/radio/index.html)
+{{% resource_link "2fa2c203-d44a-439e-8e19-0f38d281205d" "Radio Berlin-Brandenburg" %}}
 
-[B5 aktuell (BR)](http://www.br.de/radio/b5-aktuell/index.html)
+{{% resource_link "af3917ec-c171-4a77-8ae6-51ea7c3bb00f" "B5 aktuell (BR)" %}}
 
 Schweizer Radio DRS
 
-[Österreichischer Rundfunk](http://radio.orf.at/)
+{{% resource_link "402880d0-7fa4-477d-b01c-b5467f1c1880" "Österreichischer Rundfunk" %}}
 
 ## Fernsehen
 
 ### Deutschland
 
-[Das Erste](http://www.daserste.de/)
+{{% resource_link "007ab285-ecac-4892-a76c-6c7fef8af531" "Das Erste" %}}
 
-[Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands (ARD)](http://www.ard.de/) – [Tagesschau](http://www.tagesschau.de/), Sportschau
+{{% resource_link "9e1fbc0f-a240-4a85-a7eb-ca0f05083439" "Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands (ARD)" %}} – {{% resource_link "7ca4786e-2f76-40bc-a8f6-77e91fc50bb4" "Tagesschau" %}}, Sportschau
 
-[ARD Digital](http://www.ard-digital.de/)
+{{% resource_link "78e11977-db4b-4d2d-afb7-4b8499d7eb6b" "ARD Digital" %}}
 
-[3sat](http://www.3sat.de/)
+{{% resource_link "8f418531-90fb-4d8b-b902-89a95ff7e442" "3sat" %}}
 
-[Das Zweite (ZDF)](http://www.zdf.de/)
+{{% resource_link "cd8d8ac8-5045-45cb-961d-6893a8aef3a5" "Das Zweite (ZDF)" %}}
 
-[Norddeutscher Rundfunk (NDR)](http://www1.ndr.de/index.html?redir=1)
+{{% resource_link "b1b5453b-08b7-427d-a9b0-a5eee6fd1475" "Norddeutscher Rundfunk (NDR)" %}}
 
-[Radio Bremen (RB)](http://www.radiobremen.de/)
+{{% resource_link "530faf18-3973-45a0-9f1d-572ab13da023" "Radio Bremen (RB)" %}}
 
-[Mitteldeutscher Rundfunk (MDR)](http://www.mdr.de/)
+{{% resource_link "a46eabea-bbdb-4c78-b5a4-dc5d31025455" "Mitteldeutscher Rundfunk (MDR)" %}}
 
-[Rundfunk Berlin-Brandenburg (rbb)](http://www.rbb-online.de/)
+{{% resource_link "92d24291-0d02-44fb-a54f-61f153141625" "Rundfunk Berlin-Brandenburg (rbb)" %}}
 
-[Fritz (ORB/rbb)](http://www.fritz.de/)
+{{% resource_link "f6a987d0-d782-431d-9a03-29f808f0737a" "Fritz (ORB/rbb)" %}}
 
-[Westdeutscher Rundfunk (WDR)](http://www.wdr.de/themen/homepages/homepage.jhtml)
+{{% resource_link "1ffde589-c9bf-4831-a336-b378b0dd4504" "Westdeutscher Rundfunk (WDR)" %}}
 
 Hessischer Rundfunk (HR)
 
-[Saarländischer Rundfunk (SR)](http://www.sr-online.de/home/1655/)
+{{% resource_link "35796d58-97e3-4b93-af4f-12a092051a56" "Saarländischer Rundfunk (SR)" %}}
 
-[Südwestrundfunk (SWR)](http://www.swr-online.de/)
+{{% resource_link "dbb5d056-046d-4c65-a1e5-8f46d2005d80" "Südwestrundfunk (SWR)" %}}
 
-[Bayerischer Rundfunk (BR)](http://www.br.de/index.html) – [Rundschau](http://www.br.de/fernsehen/bayerisches-fernsehen/sendungen/rundschau/index.html)
+{{% resource_link "9c15c8a7-aeac-4748-b142-0ddd21eed050" "Bayerischer Rundfunk (BR)" %}} – {{% resource_link "c20ab15e-6601-40c6-b3c6-2fc5efcfce3a" "Rundschau" %}}
 
-[Bayerisches Fernsehen Alpha](http://www.br.de/fernsehen/br-alpha/index.html)
+{{% resource_link "7b353682-7d85-4c5a-b9a0-a9bfdccbaa0d" "Bayerisches Fernsehen Alpha" %}}
 
-[Pro7](https://www.prosieben.de/) (privat)
+{{% resource_link "c7d058a3-4122-44e6-9e52-456d18a7393c" "Pro7" %}} (privat)
 
-[RTL](http://www.rtl.de/), [RTL2](http://www.rtl2.de/) (privat)
+{{% resource_link "3d42aff6-526e-4669-ab1c-b6c4ed31abce" "RTL" %}}, {{% resource_link "34fd4efc-4b5f-4ec2-945e-d478d2ee0277" "RTL2" %}} (privat)
 
-[SAT1](http://www.sat1.de/) (privat)
+{{% resource_link "2983e5a1-0022-44a7-92fa-27ae6d427e0d" "SAT1" %}} (privat)
 
-[VOX](http://www.vox.de/) (privat)
+{{% resource_link "67de7bb1-e1e4-4b29-83e9-36922ac2b769" "VOX" %}} (privat)
 
-[arte (Europäischer Kulturkanal)](http://www.arte-tv.com/de/70.html)
+{{% resource_link "55022b71-edb5-4774-8bc9-eadd640306b6" "arte (Europäischer Kulturkanal)" %}}
 
 ### Österreich
 
-[Österreichischer Rundfunk (ORF 1 & 2)](http://www.orf.at/)
+{{% resource_link "f78b00d0-f214-40a2-9fa7-2c05ace459a1" "Österreichischer Rundfunk (ORF 1 & 2)" %}}
 
 ### Schweiz
 
-[Schweizer Fernsehen (SF 1 & 2)](http://www.sf.tv/) – Tagesschau
+{{% resource_link "0d34724d-6a92-4c57-9499-2d0ca1bed4ae" "Schweizer Fernsehen (SF 1 & 2)" %}} – Tagesschau
 
 ## Agenturen
 
-[Agence France-Presse](http://www.afp.com/afpcom/de/)
+{{% resource_link "e20bd9e2-2b47-4332-8ed6-b1ae2c0bfe1c" "Agence France-Presse" %}}
 
-[Austria Presse Agentur (APA)](https://apa.at/)
+{{% resource_link "eea1c71c-b455-4a06-871f-67324bc2c1b5" "Austria Presse Agentur (APA)" %}}

@@ -428,7 +428,7 @@ Wortschatz
 
 Schwerpunktthemen: **Zuwanderung: Das Jahr der Integration -Gruppendiskussion:** Wie geht der Staat das Problem an? Welche Stimmen hört man in der Kunst? Was hat sich seit 2008 geändert?
 
-**Gastvortrag: Jürgen Schönstein, Freier Journalist:** Die deutsche Presselandschaft ([Sein Blog](http://www.scienceblogs.de/geograffitico/))
+**Gastvortrag: Jürgen Schönstein, Freier Journalist:** Die deutsche Presselandschaft ({{% resource_link "e5b8dbd5-5776-4611-b2e2-95008c6479f0" "Sein Blog" %}})
 
 
 {{< tdclose >}}
